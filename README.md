@@ -19,5 +19,5 @@
 **AI Tools Used:**
 * Google Gemini
 
-**Live Website:**
+**Live Website:**https://tushalnanjani91-jpg.github.io/Event-Invitation/
 *
